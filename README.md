@@ -25,7 +25,7 @@
 在这里有个输入框，把你刚刚复制的优惠code粘贴到这里，然后点击 `Validate code`
 
 
-![搭建VPN](githubusercontent.com/98797623/177512532-b227bc29-c88e-4165-8b1e-fc954aa83731.png)
+![搭建VPN](https://user-images.githubusercontent.com/98797623/177512532-b227bc29-c88e-4165-8b1e-fc954aa83731.png)
 
 这时候你就可以得到一个更优惠的价格了：
 
